@@ -5,12 +5,10 @@
 <br>
 
 💫 **About Me:**
-<p>
-I am a Senior Business Analyst & Product Manager with over 16 years of experience in telecom, cloud services, and enterprise sales.
-My passion is leveraging data analytics and strategic planning to solve business challenges, optimize operations, and drive growth.
-</p>
 
-<br>
+
+
+
 
 🌐 **Socials:**
 <p>
